@@ -1,0 +1,5 @@
+/home/toto/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/toto/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/toto/Desktop/repozitorijumi/proba -B /home/toto/Desktop/repozitorijumi/proba/cmake-build-debug
+-- Configuring done (0.0s)
+CMake Error: CMake can not determine linker language for target: proba
+-- Generating done (0.0s)
+CMake Generate step failed.  Build files cannot be regenerated correctly.
